@@ -42,7 +42,7 @@ The project uses high-resolution TIFF images of kidney tissue, processed into 51
 - Xiao Lingao
 - Dong Luojie
 - Sirin Nadir Kaan
-- Jose Antonio Franca
+- Antonio Franca
 - Heng Wei Jie
 
 ## Acknowledgments
